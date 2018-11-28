@@ -12,6 +12,8 @@
       margin: 0 auto;
       cursor: pointer;
         .img-fluid {
+          width: 100%;
+          height: auto;
           z-index: 1;
           transition: transform .2s; /* Animation */
         }

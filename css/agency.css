@@ -410,6 +410,11 @@ section#services .row .btn-primary {
   display: inline-block;
 }
 
+.gallery__link .img-fluid {
+  height: auto;
+  width: 100%;
+}
+
 .card {
   border: none;
 }
@@ -638,6 +643,8 @@ header.masthead .intro-text .intro-heading {
 }
 
 #portfolio .portfolio-item .portfolio-link .img-fluid {
+  width: 100%;
+  height: auto;
   z-index: 1;
   -webkit-transition: -webkit-transform .2s;
   transition: -webkit-transform .2s;

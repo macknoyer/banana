@@ -376,6 +376,10 @@ text-align: center;
 .gallery {
 	&__link {
 		display: inline-block;
+		.img-fluid{
+			height: auto;
+			width: 100%;
+		}
 	}
 }
 .card {
