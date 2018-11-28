@@ -1,0 +1,17 @@
+// Core variables and mixins
+@import "_variables.scss";
+@import "_mixins.scss";
+// Global CSS
+@import "_global.scss";
+// Components
+@import "_navbar.scss";
+@import "_masthead.scss";
+@import "_services.scss";
+@import "_portfolio.scss";
+@import "_timeline.scss";
+@import "_team.scss";
+@import "_contact.scss";
+@import "_footer.scss";
+@import "../bower_components/fancybox/dist/jquery.fancybox.min.css";
+// @import "../bower_components/owl.carousel/dist/assets/owl.carousel.min.css";
+// @import "../bower_components/owl.carousel/dist/assets/owl.theme.default.min.css";
