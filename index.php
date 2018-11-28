@@ -26,7 +26,7 @@ gtag('config', 'UA-127920066-1');
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -436,6 +436,9 @@ gtag('config', 'UA-127920066-1');
              <div class="card">
               <a class="gallery__link" data-fancybox="gallery" href="img/gallery/12.jpg"><img class="img-fluid" src="img/gallery/12.jpg"></a>
              </div>
+             <div class="card">
+              <a class="gallery__link review__video" data-fancybox href="https://www.youtube.com/watch?v=6uOqIOk9rl0"><img class="img-fluid" src="img/gallery/13.jpg"></a>
+             </div>
            </div>
          </div>
     </section>
@@ -463,7 +466,7 @@ gtag('config', 'UA-127920066-1');
               <li><span>Фигурка из шарика каждому ребенку</span></li>
               <li><span>Вынос торта</span></li>
             </ul>
-             <div class="price display-mobile">1200 &#8381;</div> 
+             <div class="price display-mobile">1300 &#8381;</div> 
           </div>
           <div class="col-md">
             <div class="services_title red text-center">Стандарт</div>
@@ -480,7 +483,7 @@ gtag('config', 'UA-127920066-1');
               <li><span>Вынос торта</span></li>
             </ul>
             <div class="price-container-mobile">
-             <div class="price display-mobile">1800 &#8381;</div> 
+             <div class="price display-mobile">1900 &#8381;</div> 
             </div>
           </div>
           <div class="col-md">
@@ -858,8 +861,10 @@ gtag('config', 'UA-127920066-1');
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle img-fluid" src="img/team/3.png" alt="">
-              <p class="text-muted">"Приглашали на день рождения дважды, дети в восторге программа веселая, интересная и очень увлекательная. Большое спасибо!"</p>
+              <a class="review__video" data-fancybox href="https://www.youtube.com/watch?v=CLD7lgLvIJ0">
+                <img class="mx-auto rounded-circle img-fluid" src="img/reviews/4.jpg" alt="Отзыв мама Лена и ее подруга, др Таира, 5 лет">
+              </a>
+              <p class="text-muted">Отзыв мама Лена и ее подруга, др Таира, 5 лет</p>
             </div>
           </div>
         </div>
@@ -867,8 +872,22 @@ gtag('config', 'UA-127920066-1');
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
+              <img class="mx-auto rounded-circle img-fluid" src="img/team/3.png" alt="">
+              <p class="text-muted">"Приглашали на день рождения дважды, дети в восторге программа веселая, интересная и очень увлекательная. Большое спасибо!"</p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
               <img class="mx-auto rounded-circle img-fluid" src="img/team/4.jpg" alt="">
               <p class="text-muted">"Мы отмечали восьмилетие сына - Мирана. Долго думали кого пригласить пирата или ниндзю. Выбрали ниндзю и не ошиблись! Цитирую Мирана: "Ну он вообще самый весёлый ниндзя на свете. Хорошо умеет делать всякие штуки из шариков, сабли, жирафы." Дети были очень увлечены. Интересно было и мальчикам и девочкам. Спасибо за проведённый праздник! Желаем удачи!"</p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <a class="review__video" data-fancybox href="https://www.youtube.com/watch?v=p2oyU0o3l6s">
+                <img class="mx-auto rounded-circle img-fluid" src="img/reviews/2.jpg" alt="Отзыв о нашем пауке">
+              </a>
+              <p class="text-muted">Отзыв о нашем пауке</p>
             </div>
           </div>
           <div class="col-sm-4">
@@ -879,8 +898,24 @@ gtag('config', 'UA-127920066-1');
           </div>
           <div class="col-sm-4">
             <div class="team-member">
+              <a class="review__video" data-fancybox href="https://www.youtube.com/watch?v=lwoyeu-SKxE">
+                <img class="mx-auto rounded-circle img-fluid" src="img/reviews/3.jpg" alt="Видео отзыв из детского сада">
+              </a>
+              <p class="text-muted">Видео отзыв из детского сада</p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
               <img class="mx-auto rounded-circle img-fluid" src="img/team/6.jpg" alt="">
               <p class="text-muted">"Всем рекомендую, приглашайте и будьте уверены, что дети останутся довольными.Моим девочкам на столько понравилось, что ложась спать они спрашивали:"А завтра у нас будет опять праздник?К нам еще придет пират?"Владислав, огромное спасибо!!!"</p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <a class="review__video" data-fancybox href="https://www.youtube.com/watch?v=Lw6nSz6pnks">
+                <img class="mx-auto rounded-circle img-fluid" src="img/reviews/1.jpg" alt="Видео отзыв Ренат и Диана">
+              </a>
+              <p class="text-muted">Видео отзыв Ренат и Диана</p>
             </div>
           </div>
         </div> 
@@ -2349,11 +2384,17 @@ d.addEventListener("DOMContentLoaded", f, false);
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/50836961" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-    <div class="mango-callback" data-settings='{"type":"", "id": "MTAwMDkzMzc=","autoDial" : "0", "lang" : "ru-ru", "host":"widgets.mango-office.ru/", "errorMessage": "В данный момент наблюдаются технические проблемы и совершение звонка невозможно"}'>
+<!--     <div class="mango-callback" data-settings='{"type":"", "id": "MTAwMDkzMzc=","autoDial" : "0", "lang" : "ru-ru", "host":"widgets.mango-office.ru/", "errorMessage": "В данный момент наблюдаются технические проблемы и совершение звонка невозможно"}'>
 </div>
 
-<script>!function(t){function e(){i=document.querySelectorAll(".button-widget-open");for(var e=0;e<i.length;e++)"true"!=i[e].getAttribute("init")&&(options=JSON.parse(i[e].closest('.'+t).getAttribute("data-settings")),i[e].setAttribute("onclick","alert('"+options.errorMessage+"(0000)'); return false;"))}function o(t,e,o,n,i,r){var s=document.createElement(t);for(var a in e)s.setAttribute(a,e[a]);s.readyState?s.onreadystatechange=o:(s.onload=n,s.onerror=i),r(s)}function n(){for(var t=0;t<i.length;t++){var e=i[t];if("true"!=e.getAttribute("init")){options=JSON.parse(e.getAttribute("data-settings"));var o=new MangoWidget({host:window.location.protocol+'//'+options.host,id:options.id,elem:e,message:options.errorMessage});o.initWidget(),e.setAttribute("init","true"),i[t].setAttribute("onclick","")}}}host=window.location.protocol+"//widgets.mango-office.ru/";var i=document.getElementsByClassName(t);o("link",{rel:"stylesheet",type:"text/css",href:host+"css/widget-button.css"},function(){},function(){},e,function(t){document.documentElement.insertBefore(t,document.documentElement.firstChild)}),o("script",{type:"text/javascript",src:host+"widgets/mango-callback.js"},function(){("complete"==this.readyState||"loaded"==this.readyState)&&n()},n,e,function(t){document.documentElement.appendChild(t)})}("mango-callback");</script>
+<script>!function(t){function e(){i=document.querySelectorAll(".button-widget-open");for(var e=0;e<i.length;e++)"true"!=i[e].getAttribute("init")&&(options=JSON.parse(i[e].closest('.'+t).getAttribute("data-settings")),i[e].setAttribute("onclick","alert('"+options.errorMessage+"(0000)'); return false;"))}function o(t,e,o,n,i,r){var s=document.createElement(t);for(var a in e)s.setAttribute(a,e[a]);s.readyState?s.onreadystatechange=o:(s.onload=n,s.onerror=i),r(s)}function n(){for(var t=0;t<i.length;t++){var e=i[t];if("true"!=e.getAttribute("init")){options=JSON.parse(e.getAttribute("data-settings"));var o=new MangoWidget({host:window.location.protocol+'//'+options.host,id:options.id,elem:e,message:options.errorMessage});o.initWidget(),e.setAttribute("init","true"),i[t].setAttribute("onclick","")}}}host=window.location.protocol+"//widgets.mango-office.ru/";var i=document.getElementsByClassName(t);o("link",{rel:"stylesheet",type:"text/css",href:host+"css/widget-button.css"},function(){},function(){},e,function(t){document.documentElement.insertBefore(t,document.documentElement.firstChild)}),o("script",{type:"text/javascript",src:host+"widgets/mango-callback.js"},function(){("complete"==this.readyState||"loaded"==this.readyState)&&n()},n,e,function(t){document.documentElement.appendChild(t)})}("mango-callback");</script> -->
 
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?159"></script>
+<!-- VK Widget -->
+<div id="vk_community_messages"></div>
+<script type="text/javascript">
+VK.Widgets.CommunityMessages("vk_community_messages", 43655098, {expandTimeout: "5000",tooltipButtonText: "Есть вопрос?"});
+</script>
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/bodymovin/4.8.0/bodymovin.min.js'></script>

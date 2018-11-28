@@ -92,18 +92,9 @@ section h3.section-subheading {
   box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
 }
 
-::-moz-selection {
-  background: #fed136;
-  text-shadow: none;
-}
-
 ::selection {
   background: #fed136;
   text-shadow: none;
-}
-
-img::-moz-selection {
-  background: transparent;
 }
 
 img::selection {
@@ -428,6 +419,31 @@ section#services .row .btn-primary {
     -webkit-column-count: 4;
     column-count: 4;
   }
+}
+
+.review__video {
+  display: inline-block;
+  position: relative;
+}
+
+.review__video:before {
+  content: '\f144';
+  display: inline-block;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  font-size: 60px;
+  color: #fed136;
+  position: absolute;
+  left: calc(50% - 30px);
+  top: calc(50% - 45px);
+  opacity: 0.9;
+  -webkit-transition: all ease 0.3s;
+  transition: all ease 0.3s;
+  z-index: 5;
+}
+
+.review__video:hover:before {
+  opacity: 1;
 }
 
 @media (max-width: 1200px) {
