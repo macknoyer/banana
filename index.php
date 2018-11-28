@@ -975,10 +975,6 @@ gtag('config', 'UA-127920066-1');
                     <p class="help-block text-danger"></p>
                   </div>
                   <div class="form-group">
-                    <input class="form-control" id="email" type="email" placeholder="Ваш email *" required="required" data-validation-required-message="Пожалуйста напишите ваш email.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
                     <input class="form-control" id="phone" type="tel" placeholder="Ваш номер телефона *" required="required" data-validation-required-message="Пожалуйста напишите ваш номер телефона.">
                     <p class="help-block text-danger"></p>
                   </div>
