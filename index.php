@@ -401,43 +401,46 @@ gtag('config', 'UA-127920066-1');
         <div class="container">
           <div class="card-columns">
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/1.jpg"><img class="img-fluid" src="img/gallery/1.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" data-options='{"caption" : "My caption"}' href="img/gallery/1.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/1.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/2.jpg"><img class="img-fluid" src="img/gallery/2.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/2.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/2.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/3.jpg"><img class="img-fluid" src="img/gallery/3.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/3.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/3.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/4.jpg"><img class="img-fluid" src="img/gallery/4.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/4.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/4.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/5.jpg"><img class="img-fluid" src="img/gallery/5.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/5.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/5.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/6.jpg"><img class="img-fluid" src="img/gallery/6.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/6.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/6.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/7.jpg"><img class="img-fluid" src="img/gallery/7.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/7.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/7.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/8.jpg"><img class="img-fluid" src="img/gallery/8.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/8.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/8.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/9.jpg"><img class="img-fluid" src="img/gallery/9.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/9.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/9.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/10.jpg"><img class="img-fluid" src="img/gallery/10.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/10.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/10.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/11.jpg"><img class="img-fluid" src="img/gallery/11.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/11.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/11.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/12.jpg"><img class="img-fluid" src="img/gallery/12.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/12.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/12.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link review__video" data-fancybox href="https://www.youtube.com/watch?v=6uOqIOk9rl0"><img class="img-fluid" src="img/gallery/13.jpg"></a>
+              <a class="gallery__link review__video" data-fancybox href="https://www.youtube.com/watch?v=AXlbQdeSXog"><div class="gallery__hover"><div class="gallery__hover-caption">Новогодний Батл Трейлер</div></div><img class="img-fluid" src="img/gallery/14.jpg"></a>
+             </div>
+             <div class="card">
+              <a class="gallery__link review__video" data-fancybox href="https://www.youtube.com/watch?v=q_rs4hZ7Kmg"><div class="gallery__hover"><div class="gallery__hover-caption">Трейлер для Супергеройского квеста</div></div><img class="img-fluid" src="img/gallery/15.jpg"></a>
              </div>
            </div>
          </div>
