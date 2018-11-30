@@ -548,10 +548,10 @@ gtag('config', 'UA-127920066-1');
         <div class="display-desktop">
           <div class="row price-container">
             <div class="col-md">
-              <div class="price">1200 &#8381;</div>
+              <div class="price">1300 &#8381;</div>
             </div>
             <div class="col-md">
-              <div class="price">1800 &#8381;</div>
+              <div class="price">1900 &#8381;</div>
             </div>
             <div class="col-md">
               <div class="price">2500 &#8381;</div>
@@ -864,7 +864,7 @@ gtag('config', 'UA-127920066-1');
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <a class="review__video" data-fancybox href="https://www.youtube.com/watch?v=CLD7lgLvIJ0">
+              <a class="review__video nocaption" data-fancybox href="https://www.youtube.com/watch?v=CLD7lgLvIJ0">
                 <img class="mx-auto rounded-circle img-fluid" src="img/reviews/4.jpg" alt="Отзыв мама Лена и ее подруга, др Таира, 5 лет">
               </a>
               <p class="text-muted">Отзыв мама Лена и ее подруга, др Таира, 5 лет</p>
@@ -887,7 +887,7 @@ gtag('config', 'UA-127920066-1');
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <a class="review__video" data-fancybox href="https://www.youtube.com/watch?v=p2oyU0o3l6s">
+              <a class="review__video nocaption" data-fancybox href="https://www.youtube.com/watch?v=p2oyU0o3l6s">
                 <img class="mx-auto rounded-circle img-fluid" src="img/reviews/2.jpg" alt="Отзыв о нашем пауке">
               </a>
               <p class="text-muted">Отзыв о нашем пауке</p>
@@ -901,7 +901,7 @@ gtag('config', 'UA-127920066-1');
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <a class="review__video" data-fancybox href="https://www.youtube.com/watch?v=lwoyeu-SKxE">
+              <a class="review__video nocaption" data-fancybox href="https://www.youtube.com/watch?v=lwoyeu-SKxE">
                 <img class="mx-auto rounded-circle img-fluid" src="img/reviews/3.jpg" alt="Видео отзыв из детского сада">
               </a>
               <p class="text-muted">Видео отзыв из детского сада</p>
@@ -915,7 +915,7 @@ gtag('config', 'UA-127920066-1');
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <a class="review__video" data-fancybox href="https://www.youtube.com/watch?v=Lw6nSz6pnks">
+              <a class="review__video nocaption" data-fancybox href="https://www.youtube.com/watch?v=Lw6nSz6pnks">
                 <img class="mx-auto rounded-circle img-fluid" src="img/reviews/1.jpg" alt="Видео отзыв Ренат и Диана">
               </a>
               <p class="text-muted">Видео отзыв Ренат и Диана</p>

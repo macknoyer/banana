@@ -454,6 +454,19 @@ text-align: center;
 				display: none;
 			}
 		}
+		&.nocaption{
+			overflow: hidden;
+			transition: all ease .5s;
+			&:hover {
+				img {
+					transition: transform .2s;
+				}
+				&:before {
+					display: inline-block;
+					opacity: 1;
+				}
+			}
+		}
 	}
 }
 @media(max-width:1200px) {
