@@ -968,32 +968,13 @@ gtag('config', 'UA-127920066-1');
             <h3 class="section-subheading text-muted">Пожалуйста заполните необходимые поля и нажмите на кнопку отправить заявку, чтобы мы могли с вами связаться :)</h3>
           </div>
         </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <form id="contactForm" name="sentMessage" novalidate="novalidate">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input class="form-control" id="name" type="text" placeholder="Ваше имя *" required="required" data-validation-required-message="Пожалуйста напиши ваше имя.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="phone" type="tel" placeholder="Ваш номер телефона *" required="required" data-validation-required-message="Пожалуйста напишите ваш номер телефона.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <textarea class="form-control" id="message" placeholder="Ваше сообщение *" required="required" data-validation-required-message="Пожалуйста напишите ваше сообщение."></textarea>
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-              </div>
-                <div class="clearfix"></div>
-                <div class="col-lg-12 text-center">
-                  <div id="success"></div>
-                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Отправить заявку</button>
-                </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-5"> 
+            <form class="form" id="form">
+              <input class="form__input" type="text" name="name" placeholder="Ваше имя" required />
+              <input class="form__input" type="text" name="phone" placeholder="Ваш телефон" required />
+              <textarea class="form__text" name="text" id="" cols="30" rows="10" placeholder="Текст сообщения"></textarea>
+              <button class="form__button btn btn-primary btn-xl text-uppercase">Отправить</button>
             </form>
           </div>
         </div>
@@ -2388,11 +2369,12 @@ d.addEventListener("DOMContentLoaded", f, false);
 
 <script>!function(t){function e(){i=document.querySelectorAll(".button-widget-open");for(var e=0;e<i.length;e++)"true"!=i[e].getAttribute("init")&&(options=JSON.parse(i[e].closest('.'+t).getAttribute("data-settings")),i[e].setAttribute("onclick","alert('"+options.errorMessage+"(0000)'); return false;"))}function o(t,e,o,n,i,r){var s=document.createElement(t);for(var a in e)s.setAttribute(a,e[a]);s.readyState?s.onreadystatechange=o:(s.onload=n,s.onerror=i),r(s)}function n(){for(var t=0;t<i.length;t++){var e=i[t];if("true"!=e.getAttribute("init")){options=JSON.parse(e.getAttribute("data-settings"));var o=new MangoWidget({host:window.location.protocol+'//'+options.host,id:options.id,elem:e,message:options.errorMessage});o.initWidget(),e.setAttribute("init","true"),i[t].setAttribute("onclick","")}}}host=window.location.protocol+"//widgets.mango-office.ru/";var i=document.getElementsByClassName(t);o("link",{rel:"stylesheet",type:"text/css",href:host+"css/widget-button.css"},function(){},function(){},e,function(t){document.documentElement.insertBefore(t,document.documentElement.firstChild)}),o("script",{type:"text/javascript",src:host+"widgets/mango-callback.js"},function(){("complete"==this.readyState||"loaded"==this.readyState)&&n()},n,e,function(t){document.documentElement.appendChild(t)})}("mango-callback");</script> -->
 
-<script type="text/javascript" src="https://vk.com/js/api/openapi.js?159"></script>
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?160"></script>
+
 <!-- VK Widget -->
 <div id="vk_community_messages"></div>
 <script type="text/javascript">
-VK.Widgets.CommunityMessages("vk_community_messages", 43655098, {expandTimeout: "5000",tooltipButtonText: "Есть вопрос?"});
+VK.Widgets.CommunityMessages("vk_community_messages", 43655098, {expandTimeout: "50000",tooltipButtonText: "Пригласить аниматора!"});
 </script>
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
