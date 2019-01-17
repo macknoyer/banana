@@ -473,27 +473,27 @@ text-align: center;
 	.card-columns {
 		column-count: 2;
 	}
-		// .carousel {
-		// 	display: none !important;     
-		// }
-		.display-mobile {
-			display: block !important;
-		}
-		.display-desktop {
-			display: none !important;
-		}
+	.display-mobile {
+		display: block !important;
 	}
+	.display-desktop {
+		display: none !important;
+	}
+}
 @media(max-width:768px) {
+	#portfolio .portfolio-item .portfolio-caption h4 {
+		font-size: 16px !important;
+	}
 	.card-columns {
 		column-count: 2;
 	}
-section#contact {
-	background: none !important;
+	section#contact {
+		background: none !important;
+		}
+	section#services {
+		background-image: none;
+		background-color: #6e6e6e;
 	}
-section#services {
-	background-image: none;
-	background-color: #6e6e6e;
-}
 }
   @media(max-width:560px) {
 	.card-columns {

@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Agency v5.0.2 (https://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2018 Start Bootstrap
+ * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
 
@@ -533,6 +533,9 @@ section#services .row .btn-primary {
 }
 
 @media (max-width: 768px) {
+  #portfolio .portfolio-item .portfolio-caption h4 {
+    font-size: 16px !important;
+  }
   .card-columns {
     -webkit-column-count: 2;
     column-count: 2;

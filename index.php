@@ -205,11 +205,11 @@ gtag('config', 'UA-127920066-1');
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom10.png" alt="">
@@ -219,11 +219,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 3 до 7 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom04.png" alt="custom04">
@@ -233,11 +233,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: 3 до до 9 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom08.png" alt="">
@@ -247,11 +247,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 3 до 8 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/shenki.jpg" alt="">
@@ -261,11 +261,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 3 до 7 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal13">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/raider.jpg" alt="">
@@ -275,11 +275,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 3 до 7 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom02.png" alt="">
@@ -289,11 +289,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 5 до 10 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom05.png" alt="">
@@ -303,11 +303,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 3 до 7 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal7">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom06.png" alt="">
@@ -317,11 +317,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 2 до 7 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal8">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom07.png" alt="">
@@ -331,11 +331,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 4 до 8 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal9">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom01.png" alt="">
@@ -345,11 +345,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 4 до 10 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal10">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom09.png" alt="">
@@ -359,11 +359,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 7 до 12 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal11">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom03.png" alt="">
@@ -373,11 +373,11 @@ gtag('config', 'UA-127920066-1');
               <p class="text-muted">Возростная категория: от 3 до 6 лет</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal12">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
+                  <i class="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/portfolio/custom00.png" alt="">
@@ -401,40 +401,40 @@ gtag('config', 'UA-127920066-1');
         <div class="container">
           <div class="card-columns">
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" data-options='{"caption" : "My caption"}' href="img/gallery/1.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/1.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" data-options='{"caption" : "My caption"}' href="img/gallery/1.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/1.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/2.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/2.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/2.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/2.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/3.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/3.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/3.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/3.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/4.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/4.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/4.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/4.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/5.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/5.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/5.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/5.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/6.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/6.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/6.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/6.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/7.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/7.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/7.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/7.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/8.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/8.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/8.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/8.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/9.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/9.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/9.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/9.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/10.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/10.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/10.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/10.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/11.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/11.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/11.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/11.jpg"></a>
              </div>
              <div class="card">
-              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/12.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-plus fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/12.jpg"></a>
+              <a class="gallery__link" data-fancybox="gallery" href="img/gallery/12.jpg"><div class="gallery__hover"><div class="gallery__hover-icon"><i class="fas fa-search fa-3x"></i></div></div><img class="img-fluid" src="img/gallery/12.jpg"></a>
              </div>
              <div class="card">
               <a class="gallery__link review__video" data-fancybox href="https://www.youtube.com/watch?v=AXlbQdeSXog"><div class="gallery__hover"><div class="gallery__hover-caption">Новогодний Батл Трейлер</div></div><img class="img-fluid" src="img/gallery/14.jpg"></a>
@@ -469,7 +469,7 @@ gtag('config', 'UA-127920066-1');
               <li><span>Фигурка из шарика каждому ребенку</span></li>
               <li><span>Вынос торта</span></li>
             </ul>
-             <div class="price display-mobile">1300 &#8381;</div> 
+             <div class="price display-mobile">1500 &#8381;</div> 
           </div>
           <div class="col-md">
             <div class="services_title red text-center">Стандарт</div>
@@ -480,13 +480,13 @@ gtag('config', 'UA-127920066-1');
               <li><span>Качественный реквизит</span></li>
               <li><span>Музыкальное сопровождение</span></li>
               <li><span>Флеш-моб</span></li>
-              <li><span>Мини-шоу мыльных пузырей</span></li>
-              <li><span>Фигурка из шарика в подарок каждому ребенку (если женский персонаж - аквагрим)</span></li>
+              <li><span>Шоу мыльных пузырей</span></li>
+              <li><span>Фигурка из шарика в подарок каждому ребенку</span></li>
               <li><span>Аквагрим (если женский персонаж)</span></li>
               <li><span>Вынос торта</span></li>
             </ul>
             <div class="price-container-mobile">
-             <div class="price display-mobile">1900 &#8381;</div> 
+             <div class="price display-mobile">2200 &#8381;</div> 
             </div>
           </div>
           <div class="col-md">
@@ -498,13 +498,13 @@ gtag('config', 'UA-127920066-1');
               <li><span>Качественный реквизит</span></li>
               <li><span>Музыкальное сопровождение</span></li>
               <li><span>Флеш-моб</span></li>
-              <li><span>Мини-шоу мыльных пузырей</span></li>
-              <li><span>Фигурка из шарика в подарок каждому ребенку (если женский персонаж - аквагрим)</span></li>
+              <li><span>Шоу мыльных пузырей</span></li>
+              <li><span>Фигурка из шарика в подарок каждому ребенку</span></li>
               <li><span>Аквагрим (если женский персонаж)</span></li>
               <li><span>Вынос торта</span></li>
             </ul>
             <div class="price-container-mobile">
-             <div class="price display-mobile">2500 &#8381;</div> 
+             <div class="price display-mobile">3200 &#8381;</div> 
             </div>
           </div>
           <div class="col-md">
@@ -516,13 +516,13 @@ gtag('config', 'UA-127920066-1');
               <li><span>Качественный реквизит</span></li>
               <li><span>Музыкальное сопровождение</span></li>
               <li><span>Флеш-моб</span></li>
-              <li><span>Мини-шоу мыльных пузырей</span></li>
-              <li><span>Фигурка из шарика в подарок каждому ребенку (если женский персонаж - аквагрим)</span></li>
+              <li><span>Шоу мыльных пузырей</span></li>
+              <li><span>Фигурка из шарика в подарок каждому ребенку</span></li>
               <li><span>Аквагрим (если женский персонаж)</span></li>
               <li><span>Вынос торта</span></li>
             </ul>
             <div class="price-container-mobile">
-             <div class="price display-mobile">3400 &#8381;</div> 
+             <div class="price display-mobile">4400 &#8381;</div> 
             </div>
           </div>
           <div class="col-md">
@@ -534,13 +534,14 @@ gtag('config', 'UA-127920066-1');
               <li><span>Качественный реквизит</span></li>
               <li><span>Музыкальное сопровождение</span></li>
               <li><span>Флеш-моб</span></li>
-              <li><span>Мини-шоу мыльных пузырей</span></li>
-              <li><span>Фигурка из шарика в подарок каждому ребенку (если женский персонаж - аквагрим)</span></li>
+              <li><span>Шоу мыльных пузырей</span></li>
+              <li><span>Фигурка из шарика в подарок каждому ребенку</span></li>
               <li><span>Аквагрим (если женский персонаж)</span></li>
               <li><span>Вынос торта</span></li>
+              <li><span>Игровая комната 3 часа</span></li>
             </ul>
             <div class="price-container-mobile">
-             <div class="price display-mobile">от 4990 &#8381;</div> 
+             <div class="price display-mobile">от 6000 &#8381;</div> 
             </div>
           </div>
         </div>
@@ -548,19 +549,19 @@ gtag('config', 'UA-127920066-1');
         <div class="display-desktop">
           <div class="row price-container">
             <div class="col-md">
-              <div class="price">1300 &#8381;</div>
+              <div class="price">1500 &#8381;</div>
             </div>
             <div class="col-md">
-              <div class="price">1900 &#8381;</div>
+              <div class="price">2200 &#8381;</div>
             </div>
             <div class="col-md">
-              <div class="price">2500 &#8381;</div>
+              <div class="price">3200 &#8381;</div>
             </div>
             <div class="col-md">
-              <div class="price">3400 &#8381;</div>
+              <div class="price">4400 &#8381;</div>
             </div>
             <div class="col-md">
-              <div class="price">от 4990 &#8381;</div>
+              <div class="price">от 6000 &#8381;</div>
             </div>
           </div>
         </div>
@@ -586,7 +587,7 @@ gtag('config', 'UA-127920066-1');
                     Мыльное шоу
                   </h4>
                   <div class="services_adds-text">
-                    2000 &#8381;
+                    2500 &#8381;
                   </div>
                 </div>
               </div>
@@ -641,7 +642,7 @@ gtag('config', 'UA-127920066-1');
                     Геливые шарики 
                   </h4>
                   <div class="services_adds-text">
-                   40 &#8381;
+                   от 65 &#8381;
                   </div>
                 </div>
               </div>
@@ -654,7 +655,7 @@ gtag('config', 'UA-127920066-1');
                     Фото и видео съемка
                   </h4>
                   <div class="services_adds-text">
-                   1500 &#8381;
+                   2000 &#8381;
                   </div>
                 </div>
               </div>
@@ -823,7 +824,7 @@ gtag('config', 'UA-127920066-1');
                     Мастер классы
                   </h4>
                   <div class="services_adds-text">
-                   1500 &#8381;
+                   2000 &#8381;
                   </div>
                 </div>
                 </div>
@@ -1035,60 +1036,7 @@ gtag('config', 'UA-127920066-1');
                       <p>Звоните нам +7 987 588 80 01</p>
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -1145,60 +1093,7 @@ gtag('config', 'UA-127920066-1');
                       <p>Звоните нам +7 987 588 80 01</p>
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -1250,60 +1145,7 @@ gtag('config', 'UA-127920066-1');
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
 
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -1355,60 +1197,7 @@ gtag('config', 'UA-127920066-1');
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
 
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
               </div>
@@ -1460,60 +1249,7 @@ gtag('config', 'UA-127920066-1');
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
 
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                   </div>
                   </div>
                 </div>
@@ -1565,60 +1301,7 @@ gtag('config', 'UA-127920066-1');
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
 
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -1669,60 +1352,7 @@ gtag('config', 'UA-127920066-1');
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
 
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -1773,60 +1403,7 @@ gtag('config', 'UA-127920066-1');
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
 
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -1877,60 +1454,7 @@ gtag('config', 'UA-127920066-1');
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
 
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -1981,60 +1505,7 @@ gtag('config', 'UA-127920066-1');
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
 
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -2086,60 +1557,7 @@ gtag('config', 'UA-127920066-1');
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
 
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -2171,60 +1589,8 @@ gtag('config', 'UA-127920066-1');
                       <p>Звоните нам +7 987 588 80 01</p> 
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -2274,60 +1640,7 @@ gtag('config', 'UA-127920066-1');
                       <a href="#contact" class="btn-modalclose btn btn-primary btn-xl text-uppercase js-scroll-trigger">Оставить заявку</a>
             <h3>Дополнительные услуги</h3>
 
-            <div class="row text-center modal-adds">
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/1.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Гигантские мыльные пузыри
-                  </h4>
-                  <div class="services_adds-text">
-                    800 &#8381;
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/2.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Бумажное шоу
-                  </h4>
-                  <div class="services_adds-text">
-                   1200 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/4.jpg" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    Фокусы или научка 
-                  </h4>
-                  <div class="services_adds-text">
-                   600 &#8381;
-                  </div>
-                </div>
-                </div>
-              <div class="col-md-3">
-                <div class="services_adds-block">
-                  <div class="services_adds-img">
-                    <img class="rounded-circle img-fluid" src="img/add/20.png" alt="">
-                  </div>
-                  <h4 class="services_adds-title"> 
-                    +30 минут
-                  </h4>
-                  <div class="services_adds-text">
-                   700 &#8381;
-                  </div>
-                </div>
-                </div>
-            </div>
+<?php include('templates/modal_adds.php');?>
                     </div>
                   </div>
                 </div>
@@ -2374,7 +1687,7 @@ d.addEventListener("DOMContentLoaded", f, false);
 <!-- VK Widget -->
 <div id="vk_community_messages"></div>
 <script type="text/javascript">
-VK.Widgets.CommunityMessages("vk_community_messages", 43655098, {expandTimeout: "50000",tooltipButtonText: "Пригласить аниматора!"});
+VK.Widgets.CommunityMessages("vk_community_messages", 43655098, {disableExpandChatSound: "1",disableNewMessagesSound: "1",disableButtonTooltip: "1"});
 </script>
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
